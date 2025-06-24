@@ -13,7 +13,21 @@ This repository is a complete learning resource for mastering **HTML and CSS** t
 - ✅ Animations, transitions, and hover effects
 - ✅ Responsive design principles using **media queries**
 
+
+##  Highlights
+
+- 🏗️ Semantic HTML structure
+- 🎨 Clean, organized CSS
+- 💻 Beginner-friendly and well-commented code
+- 📱 Mobile-first styling examples
+- 🧪 Useful reference examples (zebra tables, form validation, favicon, image maps, etc.)
+
 ---
 
-##  Project Structure
+##  How to Use
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/html3-masterclass.git
+
 
